@@ -1,0 +1,72 @@
+site_name: TOGAF 10 Notes
+site_description: Compact study notes for TOGAF® Enterprise Architecture Foundation
+site_url: https://meetrickyb.github.io/togaf-10
+repo_url: https://github.com/meetrickyb/togaf-10
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.expand
+    - content.code.copy
+    - content.action.edit
+    - search.suggest
+    - search.highlight
+    - toc.integrate
+  palette:
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle: { icon: material/weather-night, name: Switch to light mode }
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle: { icon: material/weather-sunny, name: Switch to dark mode }
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.critic
+  - pymdownx.snippets
+  - attr_list
+  - footnotes
+plugins:
+  - search
+  - minify:
+      minify_html: true
+  - git-revision-date-localized:
+      enable_creation_date: true
+nav:
+  - Home: index.md
+  - Foundation (Level 1):
+    - Syllabus & Exam Facts: foundation/exam.md
+    - Core Concepts & Terminology: foundation/core-concepts.md
+  - ADM Phases:
+    - Overview: adm/overview.md
+    - Preliminary: adm/preliminary.md
+    - Phase A — Vision: adm/phase-a.md
+    - Phase B — Business: adm/phase-b.md
+    - Phase C — Data & Application: adm/phase-c.md
+    - Phase D — Technology: adm/phase-d.md
+    - Phase E — Opportunities & Solutions: adm/phase-e.md
+    - Phase F — Migration Planning: adm/phase-f.md
+    - Phase G — Implementation Governance: adm/phase-g.md
+    - Phase H — Change Management: adm/phase-h.md
+    - Requirements Management: adm/requirements.md
+  - Content & Artefacts:
+    - Content Framework: content/framework.md
+    - Views & Viewpoints: content/views.md
+    - Building Blocks: content/building-blocks.md
+    - Enterprise Continuum & Repository: content/continuum-repo.md
+    - Reference Models (TRM, III-RM): content/reference-models.md
+  - Governance & Capability:
+    - Architecture Capability: governance/capability.md
+    - Governance & Compliance: governance/governance.md
+  - Practice:
+    - Cheat Sheet: practice/cheat-sheet.md
+    - 30 Practice Questions: practice/questions.md
+    - Common Traps: practice/traps.md
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/<you>/togaf-notes
