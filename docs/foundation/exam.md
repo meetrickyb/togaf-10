@@ -4,4 +4,4 @@
 - **Format:** 40 MCQs, **60 minutes**
 - **Pass mark:** 60% (24/40)
 - **Prerequisites:** None
-- **Focus:** terminology, ADM purposes, artefacts, governance, repository/continuum
+- **Focus:** terminology, ADM purposes, artifacts, governance, repository/continuum
