@@ -29,8 +29,9 @@ TOGAF standard consideres Enterprise as a **system**
 |-------|------------|
 |**Baseline Architecture**| Current state acting as reference for all change|
 |**Resting Architecture** | State where the entperprise receives value if all change activity is suspended |
-## The Architecture Development Method (ADM)
 
+
+## The Architecture Development Method (ADM)
 ADM is the **core of TOGAF** — a step-by-step approach for developing and managing enterprise architecture.
 
 **Phases:**
@@ -50,6 +51,22 @@ Key points to remember for the exam:
 - Each phase has **inputs**, **steps**, and **outputs (deliverables)**.  
 - The **Requirements Management** phase feeds and is fed by all others.
 
+---
+## Architecture Scope
+- Four dimensions define and limit the scope of an architecture
+- **A. Enterprise Scope (Breadth)** - What is the full extent of the enterprise and what part of that extent will tis architecting effort deal with?
+        - Organizations
+        - Business Unit
+        - Departments
+        - Processes
+- **B. Level of Detail (Depth)** - To what level of detail should the architecting effort go?
+        - How much architecture is enough?
+- **C. Architecture Domains** - Which domains should be looked at?
+        - Business
+        - Data
+        - Application
+        - Technology
+- **D. Time Period (Planning Horizon)** - What is the time period that needs to be articulated for the Architecture Vision?
 ---
 
 ## Key TOGAF Concepts
