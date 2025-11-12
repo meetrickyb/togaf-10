@@ -16,9 +16,19 @@
 | **Technology** | Infrastructure, platforms, and networks | Cloud Topology, Network Architecture |
 
 TOGAF often abbreviates this model as **BDAT** (Business, Data, Application, Technology).
+Entire Enterprise or one or more specific areas of interest
+TOGAF standard consideres Enterprise as a **system**
+**Architecture** is the fundamental concepts or properties of a system in its environment embodied in its elements, relationshipts and in the principles of its design & evolution [ISO/IEC/IEEE 42010: 2011]
 
+![Architecture Domains](image.png)
 ---
 
+## Architecture States
+
+| State | Definition | 
+|-------|------------|
+|**Baseline Architecture**| Current state acting as reference for all change|
+|**Resting Architecture** | State where the entperprise receives value if all change activity is suspended |
 ## The Architecture Development Method (ADM)
 
 ADM is the **core of TOGAF** — a step-by-step approach for developing and managing enterprise architecture.
