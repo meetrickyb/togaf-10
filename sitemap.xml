@@ -2,14 +2,98 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://meetrickyb.github.io/togaf-10/</loc>
-         <lastmod>2025-11-12</lastmod>
+         <lastmod>2025-11-13</lastmod>
+    </url>
+    <url>
+         <loc>https://meetrickyb.github.io/togaf-10/adm/overview/</loc>
+         <lastmod>2025-11-13</lastmod>
+    </url>
+    <url>
+         <loc>https://meetrickyb.github.io/togaf-10/adm/phase-a/</loc>
+         <lastmod>2025-11-13</lastmod>
+    </url>
+    <url>
+         <loc>https://meetrickyb.github.io/togaf-10/adm/phase-b/</loc>
+         <lastmod>2025-11-13</lastmod>
+    </url>
+    <url>
+         <loc>https://meetrickyb.github.io/togaf-10/adm/phase-c/</loc>
+         <lastmod>2025-11-13</lastmod>
+    </url>
+    <url>
+         <loc>https://meetrickyb.github.io/togaf-10/adm/phase-d/</loc>
+         <lastmod>2025-11-13</lastmod>
+    </url>
+    <url>
+         <loc>https://meetrickyb.github.io/togaf-10/adm/phase-e/</loc>
+         <lastmod>2025-11-13</lastmod>
+    </url>
+    <url>
+         <loc>https://meetrickyb.github.io/togaf-10/adm/phase-f/</loc>
+         <lastmod>2025-11-13</lastmod>
+    </url>
+    <url>
+         <loc>https://meetrickyb.github.io/togaf-10/adm/phase-g/</loc>
+         <lastmod>2025-11-13</lastmod>
+    </url>
+    <url>
+         <loc>https://meetrickyb.github.io/togaf-10/adm/phase-h/</loc>
+         <lastmod>2025-11-13</lastmod>
+    </url>
+    <url>
+         <loc>https://meetrickyb.github.io/togaf-10/adm/preliminary/</loc>
+         <lastmod>2025-11-13</lastmod>
+    </url>
+    <url>
+         <loc>https://meetrickyb.github.io/togaf-10/adm/requirements/</loc>
+         <lastmod>2025-11-13</lastmod>
+    </url>
+    <url>
+         <loc>https://meetrickyb.github.io/togaf-10/content/building-blocks/</loc>
+         <lastmod>2025-11-13</lastmod>
+    </url>
+    <url>
+         <loc>https://meetrickyb.github.io/togaf-10/content/continuum-repo/</loc>
+         <lastmod>2025-11-13</lastmod>
+    </url>
+    <url>
+         <loc>https://meetrickyb.github.io/togaf-10/content/framework/</loc>
+         <lastmod>2025-11-13</lastmod>
+    </url>
+    <url>
+         <loc>https://meetrickyb.github.io/togaf-10/content/reference-models/</loc>
+         <lastmod>2025-11-13</lastmod>
+    </url>
+    <url>
+         <loc>https://meetrickyb.github.io/togaf-10/content/views/</loc>
+         <lastmod>2025-11-13</lastmod>
     </url>
     <url>
          <loc>https://meetrickyb.github.io/togaf-10/foundation/core-concepts/</loc>
-         <lastmod>2025-11-12</lastmod>
+         <lastmod>2025-11-13</lastmod>
     </url>
     <url>
          <loc>https://meetrickyb.github.io/togaf-10/foundation/exam/</loc>
-         <lastmod>2025-11-12</lastmod>
+         <lastmod>2025-11-13</lastmod>
+    </url>
+    <url>
+         <loc>https://meetrickyb.github.io/togaf-10/governance/capability/</loc>
+         <lastmod>2025-11-13</lastmod>
+    </url>
+    <url>
+         <loc>https://meetrickyb.github.io/togaf-10/governance/governance/</loc>
+         <lastmod>2025-11-13</lastmod>
+    </url>
+    <url>
+         <loc>https://meetrickyb.github.io/togaf-10/practice/cheat-sheet/</loc>
+         <lastmod>2025-11-13</lastmod>
+    </url>
+    <url>
+         <loc>https://meetrickyb.github.io/togaf-10/practice/questions/</loc>
+         <lastmod>2025-11-13</lastmod>
+    </url>
+    <url>
+         <loc>https://meetrickyb.github.io/togaf-10/practice/traps/</loc>
+         <lastmod>2025-11-13</lastmod>
     </url>
 </urlset>
